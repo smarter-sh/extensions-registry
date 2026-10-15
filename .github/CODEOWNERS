@@ -1,0 +1,6 @@
+# The Smarter team reviews every change to trust badges, keys, scripts and workflows.
+/publishers.yaml   @smarter-sh/core
+/keys/             @smarter-sh/core
+/scripts/          @smarter-sh/core
+/schema/           @smarter-sh/core
+/.github/          @smarter-sh/core

@@ -1,0 +1,7 @@
+# The publishers of extensions, and their trust badges: official, verified or community.
+# Only the Smarter team may change a badge. A new publisher adds themselves with badge: community.
+publishers:
+  - id: smarter-sh
+    name: The Smarter Project
+    url: https://smarter.sh
+    badge: official
